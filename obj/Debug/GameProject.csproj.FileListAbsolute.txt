@@ -1,0 +1,10 @@
+c:\Users\Guy2-w\source\repos\GameProject\GameProject\bin\Debug\GameProject.exe.config
+c:\Users\Guy2-w\source\repos\GameProject\GameProject\bin\Debug\GameProject.exe
+c:\Users\Guy2-w\source\repos\GameProject\GameProject\bin\Debug\GameProject.pdb
+c:\Users\Guy2-w\source\repos\GameProject\GameProject\obj\Debug\GameProject.csprojAssemblyReference.cache
+c:\Users\Guy2-w\source\repos\GameProject\GameProject\obj\Debug\GameProject.Properties.Resources.resources
+c:\Users\Guy2-w\source\repos\GameProject\GameProject\obj\Debug\GameProject.csproj.GenerateResource.cache
+c:\Users\Guy2-w\source\repos\GameProject\GameProject\obj\Debug\GameProject.csproj.CoreCompileInputs.cache
+c:\Users\Guy2-w\source\repos\GameProject\GameProject\obj\Debug\GameProject.exe
+c:\Users\Guy2-w\source\repos\GameProject\GameProject\obj\Debug\GameProject.pdb
+c:\Users\Guy2-w\source\repos\GameProject\GameProject\obj\Debug\GameProject.Form1.resources
